@@ -1,2 +1,2 @@
-- 👋 Hi, I’m a learner.
+- 👋 Hi, I’m a learner who is actively seeking new learning experiences in the world of computers.
 - 👀 Coming soon to your nearby repositories.
